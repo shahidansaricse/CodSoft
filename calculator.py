@@ -29,7 +29,7 @@ entry.pack(fill=X, padx=10, pady=10)
 button_frame = Frame(root)
 button_frame.pack()
 
-# Button layout with "." included
+
 buttons = [
     ["7", "8", "9", "/"],
     ["4", "5", "6", "*"],
